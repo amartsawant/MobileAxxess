@@ -8,6 +8,7 @@ target 'MobileAxxess' do
   # Pods for MobileAxxess
 
   pod 'Alamofire', '~> 5.2'
+  pod 'SnapKit', '~> 5.0.0'
   
   target 'MobileAxxessTests' do
     inherit! :search_paths
