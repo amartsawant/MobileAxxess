@@ -9,6 +9,9 @@ target 'MobileAxxess' do
 
   pod 'Alamofire', '~> 5.2'
   pod 'SnapKit', '~> 5.0.0'
+  pod 'RealmSwift'
+  pod 'SwiftHash'
+  pod 'ReachabilitySwift'
   
   target 'MobileAxxessTests' do
     inherit! :search_paths

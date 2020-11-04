@@ -7,7 +7,6 @@
 //
 
 import XCTest
-@testable import MobileAxxess
 
 class MobileAxxessTests: XCTestCase {
 
